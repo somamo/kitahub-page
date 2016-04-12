@@ -104,3 +104,10 @@ body {
   text-decoration: none;
   color: #fff;
 }
+
+.contact-btn:active {
+  text-decoration: none;
+  background-color: #78CE48;
+  text-decoration: none;
+  color: #fff;
+}
